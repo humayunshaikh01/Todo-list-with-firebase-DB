@@ -1,0 +1,10 @@
+.mainContainer{
+    border: solid 5px white;
+    border-radius: 8%;
+}
+
+.heading{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: bold;
+    
+}
